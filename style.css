@@ -1,0 +1,36 @@
+h1 {
+	font-size: 3.5rem;
+	text-align: center;
+	margin-top: 20%;
+	font-family: 'PT Sans', sans-serif;
+}
+
+input {
+	margin-top: 3%;
+	margin-left: 30%;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 1.5rem;
+}
+
+button {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 1.5rem;
+}
+
+.cloudy {
+	background: url('https://images.unsplash.com/photo-1534536525063-f02d43023606?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjI3fHxjbG91ZHl8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60');
+	height: 500px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.clear {
+	background: url('https://images.unsplash.com/photo-1444454630941-1ebcd207e6b7?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTE4fHxjbGVhciUyMHNreXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60');
+}
+
+.rainy {
+	background: url: ('https://images.unsplash.com/photo-1490713230272-bf236b61ad43?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2689&q=80');
+}
+
+
